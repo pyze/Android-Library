@@ -14,5 +14,8 @@ Visit the wiki page below to learn more about:
 
 #### [Android Library Installation and Initialization Wiki] (https://github.com/pyze/Android-Library/wiki)
 
+Pyze supports Android versions 2.3 (Gingerbread) and above.
+
+
 [The iOS Library can be found here] (https://github.com/pyze/iOS-Library)
 
