@@ -14,5 +14,5 @@ Visit the wiki page below to learn more about:
 
 #### [Android Library Installation and Initialization Wiki] (https://github.com/pyze/Android-Library/wiki)
 
-[The iOS Library can be found here] (https://github.com/pyze/iOS-Library)]]
+[The iOS Library can be found here] (https://github.com/pyze/iOS-Library)
 
