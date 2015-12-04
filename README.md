@@ -2,6 +2,7 @@
 
 # Pyze Android-Library
 
+<img src="http://pyze.com/images/android.svg" height="20" />
 This is the [Pyze&reg;](http://pyze.com) Android framework github page.  
 
 **Pyze is a Growth Intelligence&reg; platform for mobile app publishers**. Signup at Pyze, install and initialize the Pyze SDK and watch your app grow.
@@ -16,6 +17,6 @@ Visit the wiki page below to learn more about:
 
 Pyze supports Android versions 2.3 (Gingerbread) and above.
 
-
+<img src="http://pyze.com/images/apple.svg" height="20" />
 [The iOS Library can be found here] (https://github.com/pyze/iOS-Library)
 
